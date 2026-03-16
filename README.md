@@ -1,4 +1,5 @@
 #### [Build a Diffusion Language Model (DLM) from Scratch by Vizura](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf)
+* [Build a Diffusion Language Model from Scratch](https://diffusion-dream-forge.vercel.app/)
 
 ***
 
