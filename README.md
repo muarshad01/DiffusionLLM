@@ -32,3 +32,5 @@
 * [Stanford CME296 Diffusion & Large Vision Models - Spring 2026 - Lecture 1: Diffusion](https://www.youtube.com/watch?v=tr-CUpw--ck)
 
 ***
+
+* https://github.com/topics/diffusion-llm
