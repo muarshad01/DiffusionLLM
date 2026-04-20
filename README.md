@@ -28,6 +28,7 @@
 
 ***
 
+#### Stanford Course
 * [CME 296 - Diffusion & Large Vision Models](https://cme296.stanford.edu/syllabus/)
 * [Stanford CME296 Diffusion & Large Vision Models - Spring 2026 - Lecture 1: Diffusion](https://www.youtube.com/watch?v=tr-CUpw--ck)
 * [Fast-dLLM v2: Efficient Block-Diffusion LLM](https://arxiv.org/abs/2509.26328)
